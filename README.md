@@ -5,7 +5,7 @@
 
 
 ## About Me
-[BGG] (https://boardgamegeek.com)
+[BGG](https://boardgamegeek.com)
 
 ## Projects
 
