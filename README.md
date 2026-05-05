@@ -5,7 +5,9 @@
 
 
 ## About Me
-[BGG](www.bgg.com)
+[BGG]
+
+(https://www.bgg.com)
 
 ## Projects
 
