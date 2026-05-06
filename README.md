@@ -42,6 +42,3 @@ These hypotheses ensured that analysis remained purpose-driven and aligned with 
 
 
 
-
-
-## Work Experience
