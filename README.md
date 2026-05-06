@@ -4,11 +4,12 @@
 ![Histogram](images/profile_pic.png)
 
 
-## About Me
+## Dashboard and Source of Main Dataset
 [Dashboard](https://public.tableau.com/app/profile/phil.robertson/viz/BoardgameDashboardv1/BoardgameAnalysisUserrated?publish=yes)
+
 [BGG](https://boardgamegeek.com)
 
-## Project
+## Publicly available dataset Project
 
 ### Executive Summary
 
